@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-08-17 19:52:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-08-17 19:29:43 +0900"
@@ -43,9 +49,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "enchanted_golden_apple": "2021-08-17 19:55:12 +0900",
       "rabbit_stew": "2021-08-17 19:29:40 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-08-17 19:55:09 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
@@ -86,6 +99,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-08-17 19:23:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-08-17 19:59:06 +0900"
     },
     "done": true
   },
@@ -161,6 +180,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-08-17 19:53:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-08-17 19:27:11 +0900"
@@ -176,6 +201,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-08-17 19:23:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-08-17 19:52:14 +0900"
     },
     "done": true
   },
