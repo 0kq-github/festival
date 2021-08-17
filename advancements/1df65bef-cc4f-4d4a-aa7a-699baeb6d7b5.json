@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-08-17 19:49:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-17 19:06:40 +0900"
@@ -200,6 +206,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-08-17 17:36:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-08-17 19:49:01 +0900"
     },
     "done": true
   },

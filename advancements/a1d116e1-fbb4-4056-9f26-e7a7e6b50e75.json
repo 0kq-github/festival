@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2021-08-17 19:44:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-17 17:05:21 +0900"
@@ -386,6 +392,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2021-08-17 17:31:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2021-08-17 19:44:01 +0900"
     },
     "done": true
   },
