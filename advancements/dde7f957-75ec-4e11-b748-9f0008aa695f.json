@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-08-23 13:10:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2021-08-23 13:10:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2021-08-23 13:04:26 +0900"
